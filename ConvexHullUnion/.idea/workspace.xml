@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d5a26b-b93c-4e51-9062-35f536915ae5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XUHIaQMt1cbww9P263LKrPDeKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../p2p-bomberman-clone" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ConvexHull" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ConvexHull" />
+      <module name="ConvexHull" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvexHull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d5a26b-b93c-4e51-9062-35f536915ae5" name="Default Changelist" comment="" />
+      <created>1581093673374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581093673374</updated>
+      <workItem from="1581093679026" duration="2677000" />
+      <workItem from="1581096399908" duration="10175000" />
+      <workItem from="1585662718779" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581098569873">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581098569873" />
+    <state x="716" y="256" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1581099025791">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="716" y="256" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581099025791" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581093770569">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581093770569" />
+    <state x="744" y="423" width="488" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581094261540">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="744" y="423" width="488" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1853.1053@67.27.1853.1053" timestamp="1581094261540" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585662751483">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585662751483" />
+    <state width="1807" height="189" key="GridCell.Tab.0.bottom" timestamp="1581116183102">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="189" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581116183102" />
+    <state width="1807" height="189" key="GridCell.Tab.0.center" timestamp="1581116183101">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="189" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581116183101" />
+    <state width="1807" height="189" key="GridCell.Tab.0.left" timestamp="1581116183100">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="189" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581116183100" />
+    <state width="1807" height="189" key="GridCell.Tab.0.right" timestamp="1581116183101">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="189" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581116183101" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585662719500">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585662719500" />
+    <state x="302" y="153" width="1372" height="798" key="new project wizard" timestamp="1581096360261">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1581096360261" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581101163075">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581101163075" />
+  </component>
+</project>
